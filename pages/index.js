@@ -18,12 +18,12 @@ export default function Home({ items }) {
     <div className={styles.container}>
       <Head>
         <title>BOHA</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon.png" />
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">BOHA!</a>
+          Welcome to <a href="https://boha.historia.ufrj.br/">BOHA!</a>
         </h1>
 
         <p className={styles.description}>
