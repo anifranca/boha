@@ -1,5 +1,5 @@
-import Head from "next/head";
-import styles from "../../styles/Home.module.css";
+import Head from 'next/head';
+import styles from '../../styles/Home.module.css';
 
 function Item({ item }) {
   return (
@@ -18,10 +18,10 @@ function Item({ item }) {
 }
 
 export async function getStaticPaths() {
-  const res = await fetch("https://api.zotero.org/groups/204820/items");
+  const res = await fetch('https://api.zotero.org/groups/204820/items');
   const items = await res.json();
 
-  const paths = items.map((item) => ({
+  const paths = items.map(item => ({
     params: { id: item.key },
   }));
 
@@ -29,11 +29,8 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps({ params }) {
-  const res = await fetch(
-    `https://api.zotero.org/groups/204820/items/${params.id}`
-  );
+  const res = await fetch(`https://api.zotero.org/groups/204820/items/${params.id}`);
   const item = await res.json();
-
   return { props: { item } };
 }
 
