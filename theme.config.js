@@ -13,7 +13,7 @@ export default {
   footerEditLink: ({ locale }) => {
     switch (locale) {
       case "es":
-        return "Editar esta página";
+        return "Edita esta página";
       case "pt":
         return "Editar esta página";
       default:

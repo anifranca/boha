@@ -2582,10 +2582,10 @@ next@12.1.0:
     "@next/swc-win32-ia32-msvc" "12.1.0"
     "@next/swc-win32-x64-msvc" "12.1.0"
 
-nextra-theme-docs@^2.0.0-alpha.42:
-  version "2.0.0-alpha.42"
-  resolved "https://registry.yarnpkg.com/nextra-theme-docs/-/nextra-theme-docs-2.0.0-alpha.42.tgz#7e30e94d10d5a7e8d6e353eda38dde70a3b61abc"
-  integrity sha512-mWi7mhvNIpYuIH9KMIddBAbWzqWCW1dE29eUHs5oTOE4Bxb/gv3jjBQ2GbkOun7hLXIQSj1RHnRqiXFW42DNUw==
+nextra-theme-docs@^2.0.0-alpha.43:
+  version "2.0.0-alpha.43"
+  resolved "https://registry.yarnpkg.com/nextra-theme-docs/-/nextra-theme-docs-2.0.0-alpha.43.tgz#a953e437bd90ec11d6d099bf107346560b11a86f"
+  integrity sha512-h3Zr/JoRA/dIWgLVZeURV5cReCtlqIF3/u3vh87fwfxWs7tvOtFelBNPJEFkaJK1LLbtdtnPpggea2QnU8cW3A==
   dependencies:
     "@headlessui/react" "^1.5.0"
     "@mdx-js/react" "^2.0.0"
@@ -2600,10 +2600,10 @@ nextra-theme-docs@^2.0.0-alpha.42:
     parse-git-url "^1.0.1"
     title "^3.4.2"
 
-nextra@^2.0.0-alpha.42:
-  version "2.0.0-alpha.42"
-  resolved "https://registry.yarnpkg.com/nextra/-/nextra-2.0.0-alpha.42.tgz#5189c144d0370cb2b8d2806a5b812fb1e3e763f3"
-  integrity sha512-lNU1r95Jc8J3wsGtibn5n1uUxUR6r31xMCOfWk7ihbQNaAHvBXIfMh5JfJrfNe/bH45kUwaL4rm8/82IQ54o2Q==
+nextra@^2.0.0-alpha.43:
+  version "2.0.0-alpha.43"
+  resolved "https://registry.yarnpkg.com/nextra/-/nextra-2.0.0-alpha.43.tgz#ea324288bf96a25a7c3cb8394f0020710bb7b2ea"
+  integrity sha512-736ShAf1o5x0QaCO13IXn9siN3vdDHF2l6Wv4FXfnKMAENQAxIw2oE3eIUkKTqZ2UQUjo7DtjInwbRU0X8ot0Q==
   dependencies:
     "@mdx-js/mdx" "^2.0.0"
     github-slugger "^1.4.0"
