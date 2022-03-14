@@ -1,0 +1,3 @@
+# Introducíon
+
+**BOHA** es un proyecto en que mapeamos el campo creciente de la historia ambiental, contemplando producciones en tres lenguas: portugués, español e inglés, además de disponer de una bibliografía accesible a través del programa on line Zotero. Disponemos también links para jornales, revistas, conferencias, artículos y los temas de investigación más recientes. Nuestro banco de datos está constantemente actualizado con bibliografia en español y portugués, y ya cuenta con más de 1500 obras listadas. Por favor, continuen enviando sus referencias. Su colaboración es muy importante para el continuo desarrollo de este proyecto. ¡Agradecemos su visita!
