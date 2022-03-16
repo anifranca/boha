@@ -7,7 +7,7 @@ export default {
   prevLinks: true,
   search: false,
   customSearch: null, // customizable, you can use algolia for example
-  darkMode: true,
+  darkMode: false,
   footer: false,
   footerText: `Labhen ${new Date().getFullYear()}`,
   footerEditLink: ({ locale }) => {

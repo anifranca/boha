@@ -1,4 +1,10 @@
+import Callout from 'nextra-theme-docs/callout'
+
 # About Us
+
+<Callout type="warning" emoji="⚠️">
+  This page is under construction
+</Callout>
 
 ## History
 

@@ -1,4 +1,10 @@
+import Callout from 'nextra-theme-docs/callout'
+
 # Como contribuir
+
+<Callout type="warning" emoji="⚠️">
+  Esta página está em construção
+</Callout>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam at libero eros. Donec a tellus et ligula tempor varius non sit amet leo. Nunc varius pulvinar nunc id volutpat. Nam fermentum dapibus diam et laoreet. Aliquam lacus mauris, aliquet non dui ac, blandit tincidunt massa. Aenean varius ante at nisl pulvinar, eu iaculis tellus tempor. Ut condimentum luctus felis venenatis commodo. Maecenas placerat lorem a lacus interdum, eget vulputate dolor eleifend. Proin et orci ac orci lobortis luctus ut et est. Suspendisse augue dui, pellentesque non tortor ac, ullamcorper euismod diam.
 
