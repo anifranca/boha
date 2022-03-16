@@ -2,7 +2,7 @@
 export default {
   projectLink: 'https://github.com/labhen/boha', // GitHub link in the navbar
   docsRepositoryBase: 'https://github.com/labhen/boha/blob/master', // base URL for the docs repository
-  titleSuffix: ' – BOHA',
+  titleSuffix: ' – Boha',
   nextLinks: true,
   prevLinks: true,
   search: false,
