@@ -1,0 +1,2 @@
+*.mdx linguist-language=Javascript
+*.md linguist-detectable=true
