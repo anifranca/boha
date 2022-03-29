@@ -5,4 +5,4 @@ Docs for the Environmental History Bibliography
 - [Zotero Web API docs](https://www.zotero.org/support/dev/web_api/v3/basics)
 
 ## Hosting
-Powered by [Vercel](https://vercel.com/?utm_source=labeh&utm_campaign=oss)
+Powered by [Vercel](https://vercel.com/?utm_source=labhen&utm_campaign=oss)
